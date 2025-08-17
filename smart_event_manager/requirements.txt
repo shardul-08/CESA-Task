@@ -1,0 +1,3 @@
+rich
+openpyxl
+python-dotenv
